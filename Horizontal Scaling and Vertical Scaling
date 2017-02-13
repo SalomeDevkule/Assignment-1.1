@@ -1,0 +1,3 @@
+To improve the query performance, there are 2 methods
+1)Vertical Scaling: Here more CPU cores, Storage memory and RAM are added thus increasing CPU power and storage resource to a single instance. It is costly and difficult process.
+2)Horizontal Scaling: Horizontal scaling divides the data set and distributes the data over multiple nodes.Fast processing.
