@@ -1,0 +1,11 @@
+There are 2 challenges of big data-
+storage 
+processing
+
+Hadoop can overcome the above mentioned challenges as hadoop distributed file system(HDFS) manages the storage and 
+map reduce manages the processing. Also Hadoop works in automated distributed computing environment helping for faster processing. 
+
+Working of hadoop
+With hdfs the data is written once on the server and subsequently read and re-used many times.
+And MapReduce mainly works in breaking down the data into smaller manageable pieces and then processing the data in parallel
+on the distributed cluster and then combine the result. 
